@@ -1,5 +1,5 @@
-WingtipToys/bin/
-WingtipToys/obj/
+bin/
+obj/
 # ignores all .md files
 .md
 # does not ignore the README.md file
